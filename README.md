@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, PHP
 - 🌱 I’m currently learning Historical Education, and little Programing Language
 - 💞️ I’m looking to collaborate on Github or Facebook
-- 📫 How to reach me Fb.com/Littletakiya
+- 📫 How to reach me twitter.com/JendralDaVe
 
 <!---
 richjowo/richjowo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
